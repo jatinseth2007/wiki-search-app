@@ -1,0 +1,32 @@
+main{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-height: calc(100vh - 60px);
+}
+
+.red{
+  color: #EA4335;
+}
+
+.blue{
+  color: #4185F4;
+}
+
+.yellow{
+  color: #FABD3B;
+}
+
+.green{
+  color: #48A853;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: #1a0dab;
+}

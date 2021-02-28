@@ -1,0 +1,13 @@
+.logo {
+    letter-spacing: -5px;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.exclaim{
+    display: inline-block;
+    font-size: 2.5rem;
+    transform: rotate(12deg);
+    margin: 0 0 0 0.25rem;
+}

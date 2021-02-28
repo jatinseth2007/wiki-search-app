@@ -1,0 +1,30 @@
+.search-bar-container{
+    display: flex;
+    margin: 1rem 1rem;
+}
+
+.form{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid #e6e6e6;
+    border-radius: 500px;
+    width: 60vw;
+    padding: 1rem 1rem;
+}
+
+.form input {
+    border: 0;
+    width: 95%;
+    outline: none;
+    font-size: 1rem;
+}
+
+.form .search-button{
+    border: 0;
+    outline: 0;
+    background: transparent;
+}
+
+.form .search-button i{
+    font-size: 1.5rem;
+}
